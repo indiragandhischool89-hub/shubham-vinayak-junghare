@@ -1,0 +1,6 @@
+{
+  "name": "Indira Gandhi School Portal",
+  "description": "Academic and Administrative Portal for Indira Gandhi English Primary School with Admin, Teacher, and Parent dashboards, including attendance, marks entry, timetable, fee collection, and notice board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
